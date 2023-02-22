@@ -19,10 +19,10 @@
       "id": 2,
       "netocoins": 100,
       "balance": {
-        "RUB": 20,
-        "USD": 0,
-        "EUR": 0,
-        "NTC": 100
+        "RUB": 2168.917281243771,
+        "USD": 250,
+        "EUR": 100,
+        "NTC": 1030.0483746735883
       }
     },
     {
@@ -58,7 +58,31 @@
         "RUB": 60000,
         "USD": 500,
         "EUR": 600,
-        "NTC": 90000
+        "NTC": 90500
+      }
+    },
+    {
+      "created_at": "2023-02-22T12:28:03.424Z",
+      "login": "pashketas@gmail.com",
+      "password": "hello",
+      "id": 6,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
+      }
+    },
+    {
+      "created_at": "2023-02-22T12:31:42.682Z",
+      "login": "napaleon1944@yandex.ru",
+      "password": "1234",
+      "id": 7,
+      "balance": {
+        "RUB": 0,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 0
       }
     }
   ],
